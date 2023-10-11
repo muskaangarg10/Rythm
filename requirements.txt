@@ -1,0 +1,5 @@
+numpy==1.22.3
+gunicorn
+streamlit==1.9.0
+panda<1.2.0
+protobuf~=3.19.0
